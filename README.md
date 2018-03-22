@@ -1,4 +1,4 @@
-<!-- # Friend-Finder
+# Friend-Finder
 
 
 
@@ -17,4 +17,4 @@ Lastly, I cannot capture values into the survey HTML and append them to my frien
 Should you have any questions please do not hesitate to reach out to me.
 
 Thanks
-Darrin Davis -->
+Darrin Davis
