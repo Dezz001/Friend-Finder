@@ -10,9 +10,12 @@ My “server.js” file works.
 
 I believe my “htmlRoutes.js” file works.
 
-My “apiRoutes.js” file is what I will call a “Hot Mess!” I am having challenges routing my data through it and I know my smallest value absolute value calculation doesn’t work.
+My “apiRoutes.js” file is what I will call a “Hot Mess!” I am having challenges routing my data through it and I know my absolute value calculation doesn’t work.
+
+My app is not on Heroku.
 
 Lastly, I cannot capture values into the survey HTML and append them to my friend array.
+
 
 Should you have any questions please do not hesitate to reach out to me.
 
